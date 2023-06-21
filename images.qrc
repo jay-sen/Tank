@@ -1,0 +1,80 @@
+<RCC>
+    <qresource prefix="/tanks">
+        <file>tank/1.png</file>
+        <file>tank/2.png</file>
+        <file>tank/3.png</file>
+        <file>tank/4.png</file>
+        <file>tank/5.png</file>
+        <file>tank/6.png</file>
+        <file>tank/7.png</file>
+        <file>tank/8.png</file>
+        <file>tank/9.png</file>
+        <file>tank/10.png</file>
+        <file>tank/11.png</file>
+        <file>tank/12.png</file>
+        <file>tank/13.png</file>
+        <file>tank/14.png</file>
+        <file>tank/15.png</file>
+        <file>tank/16.png</file>
+        <file>tank/tank_blue.png</file>
+        <file>tank/tank_green.png</file>
+        <file>tank/tank_huge.png</file>
+        <file>tank/explosion.png</file>
+    </qresource>
+    <qresource prefix="/bullet">
+        <file>bullet/1.png</file>
+        <file>bullet/2.png</file>
+        <file>bullet/3.png</file>
+        <file>bullet/4.png</file>
+    </qresource>
+    <qresource prefix="/block">
+        <file>background/brick.png</file>
+        <file>background/metal.png</file>
+        <file>background/dirt.png</file>
+        <file>background/sand.png</file>
+        <file>background/crateMetal.png</file>
+        <file>background/crateWood.png</file>
+        <file>background/water.png</file>
+        <file>background/tree.png</file>
+    </qresource>
+    <qresource prefix="/effect">
+        <file>effect/explosion1.png</file>
+        <file>effect/explosion2.png</file>
+        <file>effect/explosion3.png</file>
+        <file>effect/explosion4.png</file>
+        <file>effect/explosion5.png</file>
+        <file>effect/shotRed1.png</file>
+        <file>effect/shotRed2.png</file>
+        <file>effect/shotRed3.png</file>
+        <file>effect/shotRed4.png</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>button/blue_button00.png</file>
+        <file>button/blue_button01.png</file>
+        <file>button/blue_button02.png</file>
+        <file>button/blue_button03.png</file>
+        <file>button/blue_button04.png</file>
+        <file>button/green_button00.png</file>
+        <file>button/green_button01.png</file>
+        <file>button/green_button02.png</file>
+        <file>button/green_button03.png</file>
+        <file>button/green_button04.png</file>
+        <file>button/grey_button00.png</file>
+        <file>button/grey_button01.png</file>
+        <file>button/grey_button02.png</file>
+        <file>button/grey_button03.png</file>
+        <file>button/grey_button04.png</file>
+        <file>button/yellow_button00.png</file>
+        <file>button/yellow_button01.png</file>
+        <file>button/yellow_button02.png</file>
+        <file>button/yellow_button03.png</file>
+        <file>button/yellow_button04.png</file>
+        <file>button/green_button06.png</file>
+        <file>button/red_button03.png</file>
+        <file>button/pause.ico</file>
+        <file>button/play.ico</file>
+        <file>button/back.ico</file>
+        <file>button/Sample.png</file>
+        <file>button/mode.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>font/kenvector_future.ttf</file>
+    </qresource>
+</RCC>

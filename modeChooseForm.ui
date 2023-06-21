@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ModeChooseForm</class>
+ <widget class="QWidget" name="ModeChooseForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1088</width>
+    <height>832</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="btn_mode1">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>570</y>
+     <width>311</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+border-image: url(:/button/button/blue_button00.png);
+color: rgb(255, 255, 255);
+}
+QPushButton:hover{
+border-image: url(:/button/button/blue_button04.png);
+color: rgb(255, 255, 255);
+}
+QPushButton:pressed{
+border-image: url(:/button/button/blue_button01.png);
+color: rgb(255, 255, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>1 player</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_mode2">
+   <property name="geometry">
+    <rect>
+     <x>650</x>
+     <y>570</y>
+     <width>311</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+border-image: url(:/button/button/green_button00.png);
+color: rgb(255, 255, 255);
+}
+QPushButton:hover{
+border-image: url(:/button/button/green_button04.png);
+color: rgb(255, 255, 255);
+}
+QPushButton:pressed{
+border-image: url(:/button/button/green_button01.png);
+color: rgb(255, 255, 255);
+}</string>
+   </property>
+   <property name="text">
+    <string>2 players</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
